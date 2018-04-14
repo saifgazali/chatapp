@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "569795692477",
+    "firebase_url": "https://chatapp-f5333.firebaseio.com",
+    "project_id": "chatapp-f5333",
+    "storage_bucket": "chatapp-f5333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569795692477:android:c18c0f1a547e2535",
+        "android_client_info": {
+          "package_name": "vit.kelambakam.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569795692477-s7aa1mv1bb4bmc6nrjv1iqfcn5o85nru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vit.kelambakam.chatapp",
+            "certificate_hash": "ee8d7eaf3eb8a8e0fe9b3cb75745f454d4ae9506"
+          }
+        },
+        {
+          "client_id": "569795692477-bei4n37p6s0k89nsopofo2lfcns71k7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXGLONtiw9AY_NDMF-MoPwdqjyqZ_VcTs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569795692477-bei4n37p6s0k89nsopofo2lfcns71k7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
